@@ -1,5 +1,5 @@
 [project]
-name = "email-extract"
+name = "email_extractor"
 version = "0.1.0"
 description = "Extract attachments and their data from email"
 authors = ["Vishwak Balumuri <vishwaksena.balumuri@gmail.com>"]
