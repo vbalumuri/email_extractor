@@ -1,0 +1,10 @@
+[project]
+name = "email-extract"
+version = "0.1.0"
+description = "Extract attachments and their data from email"
+authors = ["Vishwak Balumuri <vishwaksena.balumuri@gmail.com>"]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pywin32>=305",
+]
